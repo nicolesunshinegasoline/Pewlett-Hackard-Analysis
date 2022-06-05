@@ -36,8 +36,8 @@ to_date date
 
 Dept_Emp
 -
-dept_no varchar pk fk - Salaries.emp_no fk - Departments.dept_no
-emp_no int pk fk - Employees.emp_no
+dept_no varchar pk fk - Departments.dept_no
+emp_no int pk fk - Employees.emp_no fk - salaries.emp_no
 from_date date
 to_date date
 

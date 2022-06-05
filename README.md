@@ -27,6 +27,7 @@ Mentorship program
 One additional query we can use is to determine how many eligible mentorship employees are within each department
 
 ![](Images/mentorship_employees.png)
+
 We can now determine the ratios between the mentor and how many hires he/she would have to train in order to fill all positions.
 
 ## Summary: 
